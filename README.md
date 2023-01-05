@@ -1,4 +1,4 @@
-![Header](./aninha.png)
+![Header](./your-header-image-name.png)
 
 
 - 🖥️ Cursando técnico em informática para a internet 
