@@ -1,4 +1,4 @@
-### oioi, me chamo Ana😊
+![Header](./aninha.png)
 
 - 🖥️ Cursando técnico em informática para a internet 
 - 🟢 Estou trabalhando com Vue.js
