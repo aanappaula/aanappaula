@@ -1,5 +1,6 @@
 ![Header](./aninha.png)
 
+
 - 🖥️ Cursando técnico em informática para a internet 
 - 🟢 Estou trabalhando com Vue.js
 - 📚 Gosto de ler no meu tempo livre
