@@ -3,8 +3,8 @@
 
 
 
-- 🖥️ Cursando técnico em informática para a internet 
-- 🟢 Estou trabalhando com Vue.js
+- 🖥️ Projetos em Vue.js
+- 📑 Aprendendo Django e React Native 
 - 📚 Gosto de ler no meu tempo livre
 
 <div align="center">
