@@ -4,7 +4,7 @@
 
 
 - 🖥️ Projetos em Vue.js
-- 📑 Aprendendo Django e React Native 
+- 📑 Aprendendo Django, React Native e Swift
 - 📚 Gosto de ler no meu tempo livre
 
 <div align="center">
@@ -20,7 +20,10 @@
 <img align="center" alt="Ana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alta="Ana-Vj" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
 <img align="center" alta="Ana-Figma" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+<img align="center" alta="Ana-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 <img align="center" alta="Ana-MySql" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+<img align="center" alta="Ana-Swift" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
+          
           
 </div>
 
