@@ -24,6 +24,8 @@
 <img align="center" alta="Ana-MySql" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <img align="center" alta="Ana-MySql" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />   
 <img align="center" alta="Ana-Swift" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
+<img align="center" alta="Ana-React" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+          
           
           
 </div>
