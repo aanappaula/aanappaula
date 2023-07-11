@@ -38,6 +38,11 @@
   <a href = "aanappauladesouza@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
   
+<p align="center">
+  <img src="https://media.tenor.com/sI5dc05XjAUAAAAd/coffee-gilmore-girls.gif" width="330">
+</p>
+
+
 
 
 
