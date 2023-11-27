@@ -1,12 +1,5 @@
 ![Header](./github-header-imagee.png)
 
-
-### Sobre mim:
-
-- 🖥️ Projetos em Vue.js
-- 📑 3º ano do ensino médio
-- 📚 Gosto de ler no meu tempo livre
-
 <div align="center">
   <a href="https://github.com/aanappaula">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=aanappaula&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
